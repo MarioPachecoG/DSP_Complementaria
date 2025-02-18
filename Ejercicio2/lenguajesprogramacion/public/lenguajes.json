@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "name": "JavaScript",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png",
+      "description": "Lenguaje de programación para desarrollo web.",
+      "maxWidth": 100,
+      "maxHeight": 100
+    },
+    {
+      "id": 2,
+      "name": "Python",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png",
+      "description": "Lenguaje interpretado de alto nivel.",
+      "maxWidth": 100,
+      "maxHeight": 100
+    },
+    {
+      "id": 3,
+      "name": "Java",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/800px-Java_programming_language_logo.svg.png",
+      "description": "Lenguaje de programación orientado a objetos.",
+      "maxWidth": 100,
+      "maxHeight": 100
+    },
+    {
+      "id": 4,
+      "name": "C++",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png",
+      "description": "Lenguaje de programación de propósito general que extiende C.",
+      "maxWidth": 100,
+      "maxHeight": 100
+    },
+    {
+      "id": 5,
+      "name": "Ruby",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/800px-Ruby_logo.svg.png",
+      "description": "Lenguaje de programación dinámico y de alto nivel.",
+      "maxWidth": 100,
+      "maxHeight": 100
+    },
+    {
+      "id": 6,
+      "name": "C#",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/C_Sharp_Logo_2023.svg/1200px-C_Sharp_Logo_2023.svg.png",
+      "description": "Lenguaje de programación desarrollado por Microsoft para .NET.",
+      "maxWidth": 100,
+      "maxHeight": 100
+    },
+    {
+      "id": 7,
+      "name": "PHP",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1200px-PHP-logo.svg.png",
+      "description": "Lenguaje de programación de código abierto especialmente usado para el desarrollo web.",
+      "maxWidth": 100,
+      "maxHeight": 100
+    }
+  ]
+  
